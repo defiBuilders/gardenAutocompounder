@@ -86,7 +86,7 @@ function Autocompounder() {
         }
 
         if (typeof selectedPlant === 'string') {
-            const maxCompountLimit = 10
+            const maxCompountLimit = 1000
             const isSelectedPlantTooLow =
                 Number(selectedPlant) < maxCompountLimit
 
