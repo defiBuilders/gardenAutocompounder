@@ -7,9 +7,13 @@ We have no intention of mistreating this service and are truly committed to prov
 
 ## Running this project:
 
+### Install a package manager and Node.js
+
+-   NPM -> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+-   Yarn -> https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
+
+### `npm install`
+
 ### `npm run start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
-You may also see any lint errors in the console. These can be ignored
