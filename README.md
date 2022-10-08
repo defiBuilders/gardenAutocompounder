@@ -29,7 +29,8 @@ We have no intention of mistreating this service and are truly committed to prov
 
 ## Install the dependencies of the project
 
- - npm install
+ - Make sure you are in the gardenAutocompounder directory.
+     - npm install
 
 ## Finally start the project 
 
