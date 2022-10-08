@@ -56,7 +56,6 @@ function CompoundPlants(props: CompoundPlantsProps) {
 
     const [isCompounding, setIsCompounding] = useState<boolean>(false)
 
-    // TODO: Move to custom hook.
     // On mount, starts the timer to fetch garden data ever 5 seconds.
 
     useEffect(() => {

@@ -38,11 +38,9 @@ function Autocompounder() {
             }
 
             if (!walletInfo?.walletAddress) {
-                // TODO: Should clear interval?
                 return
             }
             if (!isWeb3Address(walletInfo.walletAddress)) {
-                // TODO: Should clear interval?
                 setHasWalletAddressErr(true)
                 return
             }
@@ -139,7 +137,6 @@ function Autocompounder() {
         setHasWalletAddressErr(false)
 
         if (!isWeb3Address(e.target.value)) {
-            // TODO: Should clear interval?
             setHasWalletAddressErr(true)
         }
 
