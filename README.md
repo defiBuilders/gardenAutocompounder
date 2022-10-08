@@ -33,12 +33,14 @@ We have no intention of mistreating this service and are truly committed to prov
      - npm install
 
 ## Finally start the project 
-
- - npm run start
+ - For all subsequent starts, make sure you are in the gardenAutocompounder directory.
+ - npm run compound
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## How to use:
+
+(Note: The computer must be running this program in order for the autocompounder to work.)
 
 Once you've entered your wallet information, you will be able to select a compound rate. The compound rate is the amount of plants at which the compound action will occur. For example, if you have 2000 plants and you select a compound rate of 500, then your plant compound is set for 2500 plants and consecutively at multiples of 500 from that point on. 
 
