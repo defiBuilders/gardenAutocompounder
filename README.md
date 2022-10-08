@@ -23,9 +23,9 @@ We have no intention of mistreating this service and are truly committed to prov
 - Change into the directory from the terminal 
     - cd gardenAutocompounder
 
-## Install npm and Node.js for either windows or macos
+## Install Node.js for either windows or macos
 
-- NPM: https://nodejs.org/en/download/
+- Node.js: https://nodejs.org/en/download/
 
 ## Install the dependencies of the project
 
