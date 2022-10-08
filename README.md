@@ -56,7 +56,7 @@ Third compound:
 - Rate: 500
 - Planned to compound at: 500
 
-Screenshot of the autocompounder UI:
+## Screenshot of the autocompounder UI:
 <img width="971" alt="Screen Shot 2022-10-07 at 9 56 41 PM" src="https://user-images.githubusercontent.com/115324732/194682323-3d1a779b-25ec-4806-bbff-fb47d1c7481d.png">
 
 
