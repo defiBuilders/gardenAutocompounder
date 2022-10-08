@@ -40,7 +40,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## How to use:
 
-(Note: The computer must be running this program in order for the autocompounder to work.)
+(Note: The computer must be running this program at all times in order for the autocompounder to work.)
 
 Once you've entered your wallet information, you will be able to select a compound rate. The compound rate is the amount of plants at which the compound action will occur. For example, if you have 2000 plants and you select a compound rate of 500, then your plant compound is set for 2500 plants and consecutively at multiples of 500 from that point on. 
 
